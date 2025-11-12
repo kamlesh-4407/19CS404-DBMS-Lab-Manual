@@ -318,5 +318,3 @@ Amount REAL CHECK(Amount>0)
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
 
-
-<img width="1253" height="76" alt="Screenshot 2025-10-27 150407" src="https://github.com/user-attachments/assets/f979253a-3e8a-493b-80a8-014e3811b8ef" />
